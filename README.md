@@ -1,3 +1,3 @@
 # acorn-national-academy
 
-## This a personal project
+## This is a personal project
