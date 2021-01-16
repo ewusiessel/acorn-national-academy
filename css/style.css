@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&display=swap');
+
+/* colors */
+#96D300 #4C3241 #03468D #1C8078 #53CCE4 #434343 
+
+
+
+body {
+    
+    font-weight: 600;  
+}
+
+
+.nav-header {
+    padding: 30px;
+    font-family:'Montserrat',
+    sans-serif;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-header .btn {
+    text-decoration: none;   
+    padding: 10px 30px; 
+    border-radius: 25px;
+    margin: 3px;
+}
+
+.teacher_hub {
+    background-color: #03468D;
+}
+
+.specialist {
+    background-color: #1C8078;
+}
+
+.subjects, 
+.schedule {
+    background-color: #96D300;
+    color: #4C3241;
+}
+
+.teacher_hub,
+.specialist {
+    color: #ffffff ;
+}
+
